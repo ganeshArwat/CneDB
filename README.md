@@ -30,7 +30,7 @@ You can check out the live version of **CneDB** here:
 
 ## 📸 Screenshots
 
-![Demo Image](https://github.com/user-attachments/assets/615dc043-3cf6-46f4-8f7b-ffd12a0a273a)
+![Demo Image](https://github.com/user-attachments/assets/d4e9222f-f852-40e5-a6f1-5dcede9a5ed3)
 
 ## 🛠️ Getting Started
 
