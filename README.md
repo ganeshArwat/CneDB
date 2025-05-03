@@ -22,9 +22,15 @@ CneDB is a React-based web application that allows users to search for movies us
 
 ---
 
+## 🌐 Live Project
+
+You can check out the live version of **CneDB** here:
+
+**🔗 [https://cne-db.vercel.app/](https://cne-db.vercel.app/)**
+
 ## 📸 Screenshots
 
-## ![Demo Image](https://github.com/user-attachments/assets/615dc043-3cf6-46f4-8f7b-ffd12a0a273a)
+![Demo Image](https://github.com/user-attachments/assets/615dc043-3cf6-46f4-8f7b-ffd12a0a273a)
 
 ## 🛠️ Getting Started
 
@@ -35,11 +41,11 @@ CneDB is a React-based web application that allows users to search for movies us
 ### Installation
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/ganeshArwat/CneDB.git
    cd CneDB
    ```
-
 
 2. Install dependencies:
 
@@ -52,7 +58,7 @@ CneDB is a React-based web application that allows users to search for movies us
 4. Create a `.env` file in the root directory and add your API key:
 
    ```env
-   REACT_APP_OMDB_API_KEY=your_api_key_here
+   VITE_OMDB_API_KEY=your_api_key_here
    ```
 
 5. Start the development server:
